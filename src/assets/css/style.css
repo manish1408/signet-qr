@@ -48007,6 +48007,7 @@ html[dir=rtl] body.dark-only .page-wrapper .page-body-wrapper .page-body .card:n
   background-blend-mode: overlay;
   background-color: rgba(255, 255, 255, 0.5);
   overflow: hidden;
+  height: 100vh;
 }
 @media only screen and (min-width: 1280px) {
   .box-layout .page-wrapper .page-header .header-wrapper .nav-right > ul > li .form-group .Typeahead .u-posRelative input {
